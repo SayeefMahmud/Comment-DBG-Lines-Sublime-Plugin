@@ -4,7 +4,7 @@
 
     {
     "keys": ["ctrl+shift+c"],  // Change the hotkey if you want
-    "command": "comment_cout_lines"
+    "command": "comment_dbg_lines"
     },
     {
     "keys": ["super+shift+c"],  // Change the hotkey if you want
